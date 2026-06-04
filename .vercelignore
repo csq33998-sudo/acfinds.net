@@ -1,0 +1,7 @@
+.chrome-lang-test/
+.chrome-qa/
+.edge-qa/
+preview-server.ps1
+preview-server.log
+preview-server.err.log
+
