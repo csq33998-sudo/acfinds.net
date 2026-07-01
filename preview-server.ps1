@@ -70,8 +70,15 @@ while ($true) {
     }
 
     if (-not [System.IO.File]::Exists($file)) {
-      Send-Response $stream 404 "text/plain; charset=utf-8" ([Text.Encoding]::UTF8.GetBytes("Not found"))
-      continue
+      $htmlFallback = "$file.html"
+      if ([System.IO.File]::Exists($htmlFallback)) {
+        $file = $htmlFallback
+      } elseif ($requestPath.StartsWith("products/")) {
+        $file = [System.IO.Path]::Combine($resolvedRoot, "product.html")
+      } else {
+        Send-Response $stream 404 "text/plain; charset=utf-8" ([Text.Encoding]::UTF8.GetBytes("Not found"))
+        continue
+      }
     }
 
     $bytes = [System.IO.File]::ReadAllBytes($file)

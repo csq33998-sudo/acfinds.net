@@ -1,5 +1,15 @@
 {
-  "cleanUrls": false,
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/products/:slug",
+      "destination": "/product.html"
+    },
+    {
+      "source": "/categories/:slug",
+      "destination": "/category.html"
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",

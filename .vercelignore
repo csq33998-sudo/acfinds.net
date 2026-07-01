@@ -2,6 +2,6 @@
 .chrome-qa/
 .edge-qa/
 preview-server.ps1
+serve.js
 preview-server.log
 preview-server.err.log
-

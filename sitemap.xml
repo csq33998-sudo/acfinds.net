@@ -1,13 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://acfinds.net/</loc><priority>1.0</priority></url>
+  <url><loc>https://acfinds.net/spreadsheet</loc><priority>0.9</priority></url>
   <url><loc>https://acfinds.net/categories.html</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/categories/sneakers</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/categories/hoodies</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/categories/jackets</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/categories/t-shirts</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/categories/pants</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/categories/bags</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/categories/accessories</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/categories/headwear</loc><priority>0.8</priority></url>
   <url><loc>https://acfinds.net/sneakers.html</loc><priority>0.8</priority></url>
   <url><loc>https://acfinds.net/qc-guide.html</loc><priority>0.8</priority></url>
   <url><loc>https://acfinds.net/shipping.html</loc><priority>0.8</priority></url>
   <url><loc>https://acfinds.net/size-guide.html</loc><priority>0.8</priority></url>
   <url><loc>https://acfinds.net/guides.html</loc><priority>0.8</priority></url>
+  <url><loc>https://acfinds.net/blog</loc><priority>0.8</priority></url>
   <url><loc>https://acfinds.net/compare.html</loc><priority>0.7</priority></url>
   <url><loc>https://acfinds.net/faq.html</loc><priority>0.7</priority></url>
   <url><loc>https://acfinds.net/contact.html</loc><priority>0.4</priority></url>
+  <url><loc>https://acfinds.net/products/unisex-21-colorway-sneakers</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/retro-court-sneakers</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/daily-mesh-runners</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/low-profile-skate-shoes</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/monogram-trainer-sneakers</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/white-blue-runner-pair</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/black-white-daily-sneakers</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/green-accent-trainers</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/tabi-purple-white-sneakers</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/canvas-low-sneakers</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/hoodie-with-yacht-graphic-in-light-grey</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/oversized-fleece-hoodie</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/heavy-zip-hoodie</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/knit-sweater-layer</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/washed-graphic-hoodie</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/boxy-pullover-hoodie</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/ribbed-collar-sweatshirt</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/vintage-wash-crewneck</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/graphic-full-zip-hoodie</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/monogram-denim-jacket</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/technical-shell-jacket</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/padded-winter-jacket</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/canvas-work-jacket</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/light-nylon-overshirt</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/short-sleeve-denim-jacket</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/bomber-jacket-layer</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/utility-field-jacket</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/lightweight-utility-jacket</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/t-shirt-sky-blue-cloud-print-casual-top</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/vintage-wash-t-shirt</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/graphic-box-tee</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/blank-heavyweight-tee</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/boxy-street-tee</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/collar-graphic-tee</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/oversized-layer-tee</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/minimal-graphic-tee</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/washed-graphic-tee</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/patterned-velvet-pants-black</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/wide-cargo-pants</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/nylon-track-pants</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/relaxed-denim-shorts</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/straight-cargo-pants</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/wide-denim-pants</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/technical-utility-pants</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/fleece-sweatpants</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/relaxed-pleated-pants</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/grid-check-shoulder-bag-navy</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/utility-shoulder-bag</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/mini-sling-bag</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/utility-crossbody-bag</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/small-messenger-bag</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/travel-pouch-add-on</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/compact-nylon-shoulder-bag</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/patterned-leather-belt</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/minimal-leather-belt</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/pattern-socks-pack</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/keychain-add-on-set</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/hardware-bracelet-row</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/small-wallet-row</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/travel-accessory-set</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/ribbed-beanie-cap</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/low-profile-beanie</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/panel-trucker-cap</loc><priority>0.7</priority></url>
+  <url><loc>https://acfinds.net/products/low-crown-street-cap</loc><priority>0.7</priority></url>
 </urlset>
